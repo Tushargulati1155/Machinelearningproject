@@ -14,7 +14,7 @@ jobs:
 
 
       - name: build , push and release docker container to heroku
-        uses: gounit/heroku-docker-deploy@v1.3.3
+        uses: gonuit/heroku-docker-deploy@v1.3.3
         with:
         
           email: ${{secrets.HEROKU_EMAIL}}
