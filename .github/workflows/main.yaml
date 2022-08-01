@@ -13,7 +13,7 @@ jobs:
 
 
 
-      - name: build , push and release docker container to heroku
+      - name: build , push and release docker container to heroku.
         uses: gonuit/heroku-docker-deploy@v1.3.3
         with:
         
