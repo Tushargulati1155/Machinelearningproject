@@ -3,7 +3,7 @@ from setuptools import setup, find_packages
 
 #Declaring variables for setup functions
 PROJECT_NAME="housing-predictor"
-VERSION="0.0.4"
+VERSION="0.0.5"
 AUTHOR="Tushar Gulati"
 DESCRIPTION="ML REGRESSION PROJECT"
 PACKAGES=["housing"]
